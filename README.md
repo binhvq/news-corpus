@@ -146,6 +146,19 @@ Zing
 Đầu Tư
 Đời Sống Plus
 ```
+* Demo Corpus:
+```
+Chây ì nộp phạt nguội.
+Hàng chục ngàn phương tiện bị ghi hình vi phạm luật giao thông ở TP.HCM, bị 'bêu tên' nhưng chủ vẫn không chịu nộp phạt.
+Trên cổng thông tin điện tử của Công an TP.HCM (CATP), mục thông tin về phương tiện vi phạm hành chính qua hình ảnh (từ ngày 4.1.2017 - 4.1.2018), có ghi nhận biển số xe, lỗi vi phạm, ngày vi phạm của 34.118 phương tiện (ô tô) chưa nộp phạt.
+Đây là các phương tiện vi phạm được camera (di động hoặc cố định) của CATP ghi hình phạt nguội .
+Điều đáng nói, dù Phòng CSGT đường bộ - đường sắt (PC67), CATP nhiều lần gửi giấy thông báo vi phạm về công an địa phương nhưng chủ hoặc người điều khiển phương tiện vẫn chưa thực hiện quyết định xử phạt hành chính.
+Phổ biến nhất là lỗi đỗ không đúng nơi quy định.
+Chẳng hạn từ tháng 1 - 7.2017, ô tô BS: 14A-130... 23 lần đỗ không đúng nơi quy định trên đường Hàm Nghi, Q.1; từ tháng 3 - 10.2017, ô tô BS: 30S-087... 34 lần đỗ trên đường Nguyễn Cư Trinh, Q.1; từ tháng 4 - 10.2017, ô tô BS: 86B-0066... 34 lần đỗ trên đường Nguyễn Cư Trinh, Q.1; từ tháng 5 - 12.2017, ô tô BS: 86B-0074... 27 lần đỗ trên đường Nguyễn Cư Trinh, Q.1; từ tháng 4 - 10.2017, ô tô BS: 84B-0023... 9 lần đỗ trên đường Trần Phú, Q.5... Từ đầu năm 2017 đến nay, PC67 nhiều lần gửi thông báo vi phạm, thậm chí bêu tên trên Cổng thông tin điện tử của CATP nhưng phương tiện vẫn tái phạm.
+Cần có biện pháp mạnh Theo trung tá Phạm Công Danh, Đội trưởng Đội chỉ huy giao thông và điều khiển đèn tín hiệu giao thông (PC67), khi hoàn tất thủ tục xe vi phạm, CSGT sẽ in thông báo vi phạm thể hiện đầy đủ nội dung vi phạm gửi về công an phường, xã, thị trấn và chuyển qua đường bưu điện với các xe biển số tỉnh thành khác.
+Công an địa phương sẽ chuyển thông báo vi phạm đến chủ phương tiện và mời chủ phương tiện đến trụ sở đội (số 52 - 54 Nguyễn Khắc Nhu, P.Cô Giang, Q.1) để giải quyết vụ việc.
+Ghi hình xe đậu đỗ vi phạm ở trung tâm thành phố Tuy nhiên, việc cưỡng chế người vi phạm nộp phạt vẫn chưa hiệu quả, chưa đủ sức răn đe.
+```
 ## Định dạng TXT
 * Kích thước : 3.7 GB Compress. Uncompress ~18.6 GB
 
