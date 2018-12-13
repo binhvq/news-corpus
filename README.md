@@ -159,10 +159,16 @@ Cần có biện pháp mạnh Theo trung tá Phạm Công Danh, Đội trưởng
 Công an địa phương sẽ chuyển thông báo vi phạm đến chủ phương tiện và mời chủ phương tiện đến trụ sở đội (số 52 - 54 Nguyễn Khắc Nhu, P.Cô Giang, Q.1) để giải quyết vụ việc.
 Ghi hình xe đậu đỗ vi phạm ở trung tâm thành phố Tuy nhiên, việc cưỡng chế người vi phạm nộp phạt vẫn chưa hiệu quả, chưa đủ sức răn đe.
 ```
-## Định dạng TXT
-* Kích thước : 3.7 GB Compress. Uncompress ~18.6 GB
+## News Title Corpus
+* Kích thước : 219 MB Compress. Uncompress 669 MB
 
-* Donwload: https://drive.google.com/file/d/1ovLbpvzSGrS4NDxZu8Ftdgc73uHzNQJf/view
+* Số lượng title: 10.787.976
+
+* Donwload: https://drive.google.com/open?id=1ypvEoGRNWrNLmW246RtBm9iMyKXm_2BP
+
+
+## Full Corpus Định dạng TXT
+* Kích thước : 3.7 GB Compress. Uncompress ~18.6 GB
  
 * Số lượng câu: khoảng 111.274.300 câu
  
@@ -177,6 +183,8 @@ Ghi hình xe đậu đỗ vi phạm ở trung tâm thành phố Tuy nhiên, vi�
     + Loại bỏ những câu giống nhau
  
     + Chuẩn hóa NFC
+    
+* Donwload: https://drive.google.com/file/d/1ovLbpvzSGrS4NDxZu8Ftdgc73uHzNQJf/view
 
 ## Định dạng Mongodb Dump
 * Size: 8.9G copmpress. ~76GB Uncompress.
