@@ -1,4 +1,4 @@
-# News Corpus Version 0.1
+# Binhvq News Corpus Version 0.1
 ## Thông tin cơ bản:
 * Trích xuất từ khoảng 14.896.998 bài báo trên internet bao gồm các báo:
 ```
