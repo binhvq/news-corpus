@@ -2,149 +2,22 @@
 ## Thông tin cơ bản:
 * Trích xuất từ khoảng 14.896.998 bài báo trên internet bao gồm các báo:
 ```
-2Sao
-ANTG
-ANTT
-ANTĐ
-ATGT
-BVPL
-BizLIVE
-Biên Phòng
-Bnews
-Báo Văn hóa
-Bộ Công thương
-Bộ GTVT
-Bộ KHĐT
-Bộ Ngoại Giao
-Bộ Nội Vụ
-Bộ Tài Chính
-Bộ VHTTDL
-CAND
-CAĐN
-CL&XH
-CSTC
-Cartimes
-Chính Phủ
-Công Luận
-Công Lý
-Công Thương
-DNVN
-Doanh Nghiệp
-Dân Sinh
-Dân Việt
-Em Đẹp
-GD&TĐ
-GTVT
-Gia Đình Mới
-Gia Đình VN
-Giao Thông
-Giáo Dục VN
-GĐ&XH
-Hà Nội Mới
-Hà Tĩnh
-Hải Quan
-ICTNews
-Infonet
-KTNT
-KTĐT
-Khỏe 365
-Khỏe Plus
-Khỏe Plus 24h
-Kiến Thức
-Kiểm Sát
-Kiểm sát
-Kỷ Nguyên Số
-Lao Động
-LĐTĐ
-MT&CS
-Mặt Trận
-Một Thế Giới
-NCĐT
-NLĐ
-Nghe Nhìn VN
-Nghệ An
-Ngày Nay
-Người Làm Báo
-Người Tiêu Dùng
-Người Đô Thị
-Người Đưa Tin
-Nhân Dân
-Nông Nghiệp
-NĐ&ĐS
-PC World
-PL&XH
-PLO
-PNNews
-PNSK
-PetroTimes
-Pháp Luật Net
-Pháp Luật Plus
-Pháp Luật VN
-Phụ Nữ VN
-Quốc Hội
-Quốc Hội TV
-QĐND
-SGGP
-SGĐT
-SaoStar
-Seatimes
-Sài Gòn Tiếp Thị
-TBDN
-TBKTSG
-TG&VN
-TGTT
-TH&PL
-TNMT
-TTOL
-TTXVN
-Thanh Hóa
-Thanh Niên
-Thanh Tra
-TheLEADER
-Thương Gia
-Thế Giới Trẻ
-Thế Giới Xe
-Tin Nhanh
-Tin Thể Thao
-Tin Tức TTXVN
-Tiền Phong
-TuanVietNam
-Tuyên Giáo
-Tuổi Trẻ TĐ
-Tài Chính
-Tạp chí Công thương
-Tạp chí Xây dựng Đảng
-Tạp chí cộng sản
-Tổ Quốc
-VEF
-VNCA
-VNEWS
-VOV
-VTC
-VietQ
-VietTimes
-Vietnam Finance
-VietnamNet
-VietnamPlus
-VnEconomy
-VnMedia
-Văn Hiến
-Văn Hoá
-XHTT
-Xe Giao Thông
-Xây Dựng Đảng
-Zing
-Ôtô - xe máy
-Ôtô Xe Máy
-ĐCSVN
-ĐS&PL
-ĐTCK
-Đại Đoàn Kết
-Đảng Cộng Sản VN
-Đất Việt
-Đấu Thầu
-Đầu Tư
-Đời Sống Plus
+2Sao, ANTG, ANTT, ANTĐ, ATGT, BVPL, BizLIVE, Biên Phòng, Bnews, Báo Văn hóa, Bộ Công thương,
+Bộ GTVT, Bộ KHĐT, Bộ Ngoại Giao, Bộ Nội Vụ, Bộ Tài Chính, Bộ VHTTDL, CAND, CAĐN, CL&XH, CSTC,
+Cartimes, Chính Phủ, Công Luận, Công Lý, Công Thương, DNVN, Doanh Nghiệp, Dân Sinh, Dân Việt,
+Em Đẹp, GD&TĐ, GTVT, Gia Đình Mới, Gia Đình VN, Giao Thông, Giáo Dục VN, GĐ&XH, Hà Nội Mới,
+Hà Tĩnh, Hải Quan, ICTNews, Infonet, KTNT, KTĐT, Khỏe 365, Khỏe Plus, Khỏe Plus 24h, Kiến Thức,
+Kiểm Sát, Kiểm sát, Kỷ Nguyên Số, Lao Động, LĐTĐ, MT&CS, Mặt Trận, Một Thế Giới, NCĐT, NLĐ,
+Nghe Nhìn VN, Nghệ An, Ngày Nay, Người Làm Báo, Người Tiêu Dùng, Người Đô Thị, Người Đưa Tin,
+Nhân Dân, Nông Nghiệp, NĐ&ĐS, PC World, PL&XH, PLO, PNNews, PNSK, PetroTimes, Pháp Luật Net,
+Pháp Luật Plus, Pháp Luật VN, Phụ Nữ VN, Quốc Hội, Quốc Hội TV, QĐND, SGGP, SGĐT, SaoStar,
+Seatimes, Sài Gòn Tiếp Thị, TBDN, TBKTSG, TG&VN, TGTT, TH&PL, TNMT, TTOL, TTXVN, Thanh Hóa,
+Thanh Niên, Thanh Tra, TheLEADER, Thương Gia, Thế Giới Trẻ, Thế Giới Xe, Tin Nhanh, Tin Thể Thao,
+Tin Tức TTXVN, Tiền Phong, TuanVietNam, Tuyên Giáo, Tuổi Trẻ TĐ, Tài Chính, Tạp chí Công thương,
+Tạp chí Xây dựng Đảng, Tạp chí cộng sản, Tổ Quốc, VEF, VNCA, VNEWS, VOV, VTC, VietQ, VietTimes,
+Vietnam Finance, VietnamNet, VietnamPlus, VnEconomy, VnMedia, Văn Hiến, Văn Hoá, XHTT, Xe Giao Thông,
+Xây Dựng Đảng, Zing, Ôtô - xe máy, Ôtô Xe Máy, ĐCSVN, ĐS&PL, ĐTCK, Đại Đoàn Kết, Đảng Cộng Sản VN,
+Đất Việt, Đấu Thầu, Đầu Tư, Đời Sống Plus
 ```
 * Sample: https://github.com/binhvq/news-corpus/blob/master/sample/demo-full.txt
 ## Only Title
