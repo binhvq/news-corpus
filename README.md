@@ -147,7 +147,7 @@ Zing
 Đời Sống Plus
 ```
 * Sample: https://github.com/binhvq/news-corpus/blob/master/sample/demo-full.txt
-## News Title Corpus
+## Only Title
 * Kích thước : 219 MB Compress. Uncompress 669 MB
 
 * Số lượng title: 10.787.976
@@ -156,7 +156,7 @@ Zing
 
 * Sample: https://github.com/binhvq/news-corpus/blob/master/sample/demo-title.txt
 
-## Full Corpus Định dạng TXT
+## Full TXT(title + description + body)
 * Kích thước : 3.7 GB Compress. Uncompress ~18.6 GB
  
 * Số lượng câu: khoảng 111.274.300 câu
