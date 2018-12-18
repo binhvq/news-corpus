@@ -29,7 +29,7 @@ Xây Dựng Đảng, Zing, Ôtô - xe máy, Ôtô Xe Máy, ĐCSVN, ĐS&PL, ĐTCK
 
 * Sample: https://github.com/binhvq/news-corpus/blob/master/sample/demo-title.txt
 
-## Full TXT(title + description + body)
+## Full TXT(title + description + body) V1
 * Kích thước : 3.7 GB Compress. Uncompress ~18.6 GB
  
 * Số lượng câu: khoảng 111.274.300 câu
@@ -45,8 +45,14 @@ Xây Dựng Đảng, Zing, Ôtô - xe máy, Ôtô Xe Máy, ĐCSVN, ĐS&PL, ĐTCK
     + Loại bỏ những câu giống nhau
  
     + Chuẩn hóa NFC
-    
+
 * Donwload: https://drive.google.com/file/d/1ovLbpvzSGrS4NDxZu8Ftdgc73uHzNQJf/view
+
+## Full TXT V2
+Kich thuoc: 5GB, Uncomress ~27.5GB
+Download: http://203.162.247.123/corpus/corpus-full-20181217.7z?fbclid=IwAR1JVzoxe-Q4pZAwm7w9rswdeTNeB_gpecB-Pze13dvLDNtYWI4lQKkGsjI
+    
+    
 ## TXT Categorys
 * Kich thuoc: 5.GB, UnCompress 28GB
 * Categorys: `Công nghệ.txt  Đời sống.txt  Giải trí.txt  Giáo dục.txt  Khoa học.txt  Kinh tế.txt  Nhà đất.txt  None.txt  Pháp luật.txt  Thế giới.txt  Thể thao.txt  Văn hóa.txt  Xã hội.txt  Xe cộ.txt`
