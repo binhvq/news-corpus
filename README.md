@@ -51,7 +51,19 @@ Xây Dựng Đảng, Zing, Ôtô - xe máy, Ôtô Xe Máy, ĐCSVN, ĐS&PL, ĐTCK
 ## Full TXT V2
 Kich thuoc: 5GB, Uncomress ~27.5GB
 Download: http://203.162.247.123/corpus/corpus-full-20181217.7z?fbclid=IwAR1JVzoxe-Q4pZAwm7w9rswdeTNeB_gpecB-Pze13dvLDNtYWI4lQKkGsjI
-    
+
+## CSV V2
+Size: 5.6GB, Uncompress ~49GB
+Download: http://203.162.247.123/corpus/corpus-cate-csv-2019-24-03.7z
+
+`fieldnames = ['title', 'sapo', 'cate', 'tags', 'publish', 'source', 'content']`
+
+`delimiter=','`
+
+`quotechar='"'`
+
+`quoting=QUOTE_MINIMAL`
+
     
 ## TXT Categorys
 * Kich thuoc: 5.GB, UnCompress 28GB
