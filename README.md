@@ -50,11 +50,11 @@ Xây Dựng Đảng, Zing, Ôtô - xe máy, Ôtô Xe Máy, ĐCSVN, ĐS&PL, ĐTCK
 
 ## Full TXT V2
 Kich thuoc: 5GB, Uncomress ~27.5GB
-Download: http://203.162.247.123/corpus/corpus-full-20181217.7z?fbclid=IwAR1JVzoxe-Q4pZAwm7w9rswdeTNeB_gpecB-Pze13dvLDNtYWI4lQKkGsjI
+Download: http://103.140.38.25/corpus/corpus-full-20181217.7z?fbclid=IwAR1JVzoxe-Q4pZAwm7w9rswdeTNeB_gpecB-Pze13dvLDNtYWI4lQKkGsjI
 
 ## CSV V2
 Size: 5.6GB, Uncompress ~49GB
-Download: http://203.162.247.123/corpus/corpus-cate-csv-2019-24-03.7z
+Download: http://103.140.38.25/corpus/corpus-cate-csv-2019-24-03.7z
 
 `fieldnames = ['title', 'sapo', 'cate', 'tags', 'publish', 'source', 'content']`
 
@@ -68,7 +68,7 @@ Download: http://203.162.247.123/corpus/corpus-cate-csv-2019-24-03.7z
 ## TXT Categorys
 * Kich thuoc: 5.GB, UnCompress 28GB
 * Categorys: `Công nghệ.txt  Đời sống.txt  Giải trí.txt  Giáo dục.txt  Khoa học.txt  Kinh tế.txt  Nhà đất.txt  None.txt  Pháp luật.txt  Thế giới.txt  Thể thao.txt  Văn hóa.txt  Xã hội.txt  Xe cộ.txt`
-* Download: http://203.162.247.123/corpus/news-corpus-categorys-20181217.7z
+* Download: http://103.140.38.25/corpus/news-corpus-categorys-20181217.7z
 ## Định dạng Mongodb Dump
 * Size: 8.9G copmpress. ~76GB Uncompress.
 
