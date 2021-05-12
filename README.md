@@ -111,6 +111,31 @@ Download: http://103.140.38.25/corpus/corpus-cate-csv-2019-24-03.7z
 	]
 }
 ```
+
+### Facebook comment Corpus
+* Mô tả: Đây là các comment trên facebook được crawler từ các page, group public của Facebook, thời gian crawler gần nhất 10/2020, được export 1 phần nhở từ elasticsearch ra.
+* Tổng số bản ghi: 10 triệu
+* Định dạng: Json Lines được dump bằng công cụ [Elasticsearch dump](https://github.com/elasticsearch-dump/elasticsearch-dump)
+* Dung lượng nén: 399MB, giải nén 3.9GB
+* Download:  http://103.140.38.25/corpus/fb_comment_10m.7z
+* Fields: `{
+          "creation_time" : 1568097734,
+          "post_id" : "2673240469403902",
+          "author" : {
+            "name" : "Công Campi Nguyễn",
+            "id" : "100013298478696"
+          },
+          "reaction_count" : 1,
+          "content" : "Giang hồ quá",
+          "url" : "https://www.facebook.com/thudaumotbd/posts/2673240469403902?comment_id=2673262599401689",
+          "object" : {
+            "name" : "Thủ Dầu Một Bình Dương",
+            "_id" : "243592359035404",
+            "type" : "Page"
+          }
+        }
+      }`
+
 ## Tác giả
 * Họ tên: Vương Quốc Bình
 * Email: binh@haui.vn
