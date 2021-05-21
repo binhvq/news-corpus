@@ -71,8 +71,8 @@ Download: http://103.140.38.25/corpus/corpus-cate-csv-2019-24-03.7z
 * Download: http://103.140.38.25/corpus/news-corpus-categorys-20181217.7z
 ## Định dạng Mongodb Dump
 * Size: 8.9G copmpress. ~76GB Uncompress.
-
 * Download: http://103.140.38.25/corpus/dump.7z
+* Link cập nhật ngày 21/05/2021(20 triệu bài viết): http://103.140.38.25/corpus/news_db_210521.archive
 
 ```
 {
