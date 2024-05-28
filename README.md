@@ -48,30 +48,8 @@ Xây Dựng Đảng, Zing, Ôtô - xe máy, Ôtô Xe Máy, ĐCSVN, ĐS&PL, ĐTCK
 
 * Donwload: https://drive.google.com/file/d/1ovLbpvzSGrS4NDxZu8Ftdgc73uHzNQJf/view
 
-## Full TXT V2
-Kich thuoc: 5GB, Uncomress ~27.5GB
-Download: https://drive.google.com/file/d/1GFbe-qs6HmCYs0JwJgivOy2Bvb06M8OI/view?usp=sharing
-
-## CSV V2
-Size: 5.6GB, Uncompress ~49GB
-Download: https://drive.google.com/file/d/14TEsnSQ_121sbhlQm-Jzda2dqhPhByja/view?usp=sharing
-
-`fieldnames = ['title', 'sapo', 'cate', 'tags', 'publish', 'source', 'content']`
-
-`delimiter=','`
-
-`quotechar='"'`
-
-`quoting=QUOTE_MINIMAL`
-
-    
-## TXT Categorys
-* Kich thuoc: 5.GB, UnCompress 28GB
-* Categorys: `Công nghệ.txt  Đời sống.txt  Giải trí.txt  Giáo dục.txt  Khoa học.txt  Kinh tế.txt  Nhà đất.txt  None.txt  Pháp luật.txt  Thế giới.txt  Thể thao.txt  Văn hóa.txt  Xã hội.txt  Xe cộ.txt`
-* Download: https://drive.google.com/file/d/1T-f1cibUX5fM0F7kH8n7r5l7GhYH4nHn/view?usp=sharing
 ## Định dạng Mongodb Dump
 * Size: 8.9G copmpress. ~76GB Uncompress.
-* Download: https://drive.google.com/file/d/1x8d7huDtbc_0Lsc6hAbl7EI-tKaJms5k/view?usp=sharing
 * Link cập nhật ngày 21/05/2021(20 triệu bài viết): https://drive.google.com/file/d/1z_HDRzs42BnW31-XqbZwhN0rKWMAfZD4/view?usp=sharing
 
 ```
