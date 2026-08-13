@@ -1,123 +1,26 @@
-# Binhvq News Corpus
-## Thông tin cơ bản:
-* Trích xuất từ khoảng 14.896.998 bài báo trên internet bao gồm các báo:
-```
-2Sao, ANTG, ANTT, ANTĐ, ATGT, BVPL, BizLIVE, Biên Phòng, Bnews, Báo Văn hóa, Bộ Công thương,
-Bộ GTVT, Bộ KHĐT, Bộ Ngoại Giao, Bộ Nội Vụ, Bộ Tài Chính, Bộ VHTTDL, CAND, CAĐN, CL&XH, CSTC,
-Cartimes, Chính Phủ, Công Luận, Công Lý, Công Thương, DNVN, Doanh Nghiệp, Dân Sinh, Dân Việt,
-Em Đẹp, GD&TĐ, GTVT, Gia Đình Mới, Gia Đình VN, Giao Thông, Giáo Dục VN, GĐ&XH, Hà Nội Mới,
-Hà Tĩnh, Hải Quan, ICTNews, Infonet, KTNT, KTĐT, Khỏe 365, Khỏe Plus, Khỏe Plus 24h, Kiến Thức,
-Kiểm Sát, Kiểm sát, Kỷ Nguyên Số, Lao Động, LĐTĐ, MT&CS, Mặt Trận, Một Thế Giới, NCĐT, NLĐ,
-Nghe Nhìn VN, Nghệ An, Ngày Nay, Người Làm Báo, Người Tiêu Dùng, Người Đô Thị, Người Đưa Tin,
-Nhân Dân, Nông Nghiệp, NĐ&ĐS, PC World, PL&XH, PLO, PNNews, PNSK, PetroTimes, Pháp Luật Net,
-Pháp Luật Plus, Pháp Luật VN, Phụ Nữ VN, Quốc Hội, Quốc Hội TV, QĐND, SGGP, SGĐT, SaoStar,
-Seatimes, Sài Gòn Tiếp Thị, TBDN, TBKTSG, TG&VN, TGTT, TH&PL, TNMT, TTOL, TTXVN, Thanh Hóa,
-Thanh Niên, Thanh Tra, TheLEADER, Thương Gia, Thế Giới Trẻ, Thế Giới Xe, Tin Nhanh, Tin Thể Thao,
-Tin Tức TTXVN, Tiền Phong, TuanVietNam, Tuyên Giáo, Tuổi Trẻ TĐ, Tài Chính, Tạp chí Công thương,
-Tạp chí Xây dựng Đảng, Tạp chí cộng sản, Tổ Quốc, VEF, VNCA, VNEWS, VOV, VTC, VietQ, VietTimes,
-Vietnam Finance, VietnamNet, VietnamPlus, VnEconomy, VnMedia, Văn Hiến, Văn Hoá, XHTT, Xe Giao Thông,
-Xây Dựng Đảng, Zing, Ôtô - xe máy, Ôtô Xe Máy, ĐCSVN, ĐS&PL, ĐTCK, Đại Đoàn Kết, Đảng Cộng Sản VN,
-Đất Việt, Đấu Thầu, Đầu Tư, Đời Sống Plus
-```
-* Sample: https://github.com/binhvq/news-corpus/blob/master/sample/demo-full.txt
-## Only Title
-* Kích thước : 219 MB Compress. Uncompress 669 MB
+# Binhvq News Corpus — đã ngừng phân phối
 
-* Số lượng title: 10.787.976
+> **Thông báo (08/2026):** Corpus này đã **ngừng phân phối** sau khi cân nhắc về bản quyền báo chí và dữ liệu cá nhân. Toàn bộ link tải đã được gỡ bỏ và các file dữ liệu trên Google Drive đã bị xóa. Repo được archive ở chế độ chỉ đọc, giữ lại làm mốc tham chiếu cho các nghiên cứu đã trích dẫn corpus.
+>
+> **Vui lòng không liên hệ xin dữ liệu** (email, chat, issue…). Mọi yêu cầu cung cấp dữ liệu sẽ không được phản hồi.
 
-* Donwload: https://drive.google.com/open?id=1ypvEoGRNWrNLmW246RtBm9iMyKXm_2BP
+## Thông tin lịch sử về corpus
 
-* Sample: https://github.com/binhvq/news-corpus/blob/master/sample/demo-title.txt
+Corpus được thu thập trong giai đoạn khoảng 2018–2021, từng bao gồm:
 
-## Full TXT(title + description + body) V1
-* Kích thước : 3.7 GB Compress. Uncompress ~18.6 GB
- 
-* Số lượng câu: khoảng 111.274.300 câu
- 
-* Đã qua xử lý cơ bản như:
-    + Tách câu sử dụng PunktSentenceTokenizer abbrev ```{'g.m.t', 'e.g', 'dr', 'dr', 'vs', "000", 'mr', 'mrs', 'prof', 'inc', 'tp', 'ts', 'ths', 'th', 'vs', 'tp', 'k.l', 'a.w.a.k.e', 'a.i', '</i', 'g.w',
-                            'ass',
-                            'u.n.c.l.e', 't.e.s.t', 'ths', 'd.c', 've…', 'ts', 'f.t', 'b.b', 'z.e', 's.g', 'm.p', 'g.u.y',
-                            'l.c', 'g.i', 'j.f', 'r.r', 'v.i', 'm.h', 'a.s', 'bs', 'c.k', 'aug', 't.d.q', 'b…', 'ph', 'j.k', 'e.l', 'o.t', 's.a'}```
- 
-    + Chỉnh sửa lại những kí tự lỗi khi chuyển từ html sang dạng text
- 
-    + Loại bỏ những câu giống nhau
- 
-    + Chuẩn hóa NFC
+* **Bài báo:** khoảng 14,9 triệu bài viết từ hơn 150 báo và nguồn tin tiếng Việt.
+  * Bản full text (title + description + body): ~18,6 GB giải nén, khoảng 111 triệu câu, đã tách câu, khử trùng lặp, chuẩn hóa NFC.
+  * Bản MongoDB dump: ~76 GB giải nén, 20 triệu bài viết (cập nhật lần cuối 21/05/2021).
+  * Bản chỉ tiêu đề: khoảng 10,8 triệu title.
+* **Bình luận Facebook:** khoảng 10 triệu bản ghi từ các page/group công khai (thu thập đến 10/2020).
 
-* Donwload: https://drive.google.com/file/d/1ovLbpvzSGrS4NDxZu8Ftdgc73uHzNQJf/view
+Tất cả các phần dữ liệu trên đều đã ngừng phân phối và không còn được cung cấp qua bất kỳ kênh nào.
 
-## Định dạng Mongodb Dump
-* Size: 8.9G copmpress. ~76GB Uncompress.
-* Link cập nhật ngày 21/05/2021(20 triệu bài viết): https://drive.google.com/file/d/1z_HDRzs42BnW31-XqbZwhN0rKWMAfZD4/view?usp=sharing
+## Ghi chú về giấy phép
 
-```
-{
-	"source" : "Thanh Niên",
-	"title" : "Đà Nẵng nghiên cứu tiện ích nhắn tin khi vi phạm đến chủ phương tiện",
-	"sapo" : "Theo thống kê của Phòng CSGT (PC67, Công an TP.Đà Nẵng), từ ngày 1.1.2016 đến hết tháng 1.2018, PC67 gửi 13.479 lượt thông báo đến chủ phương tiện vi phạm luật Giao thông đường bộ.",
-	"body" : "<p class=\"body-image\"><img src=\"https://photo-1-baomoi.zadn.vn/w700_r1/18/02/05/4/24858235/1_54839.jpg\"/></p><p class=\"body-text\"><em>Xử l&yacute; phạt nguội qua camera gi&aacute;m s&aacute;t tại Ph&ograve;ng CSGT C&ocirc;ng an TP.Đ&agrave; Nẵng - Nguyễn T&uacute;</em></p><p class=\"body-text\">Đến nay c&ograve;n 5.199 trường hợp chưa đến giải quyết, chiếm 38,5%. Đối với 8.280 trường hợp đến l&agrave;m việc, qua ph&acirc;n t&iacute;ch lỗi, cơ quan chức năng đ&atilde; lập bi&ecirc;n bản 7.184 trường hợp, chuyển kho bạc hơn 9 tỉ đồng, tước giấy ph&eacute;p l&aacute;i xe (c&oacute; thời hạn) 2.107 trường hợp.</p><p class=\"body-text\">Hiện PC67 Đ&agrave; Nẵng c&oacute; nhiều k&ecirc;nh để th&ocirc;ng b&aacute;o đến chủ xe như gửi th&ocirc;ng b&aacute;o đến địa chỉ đăng k&yacute; qua đường bưu điện, cập nhật danh s&aacute;ch l&ecirc;n trang Facebook &ldquo;Cảnh s&aacute;t giao th&ocirc;ng C&ocirc;ng an TP.Đ&agrave; Nẵng&rdquo;. Từ ng&agrave;y 22.9.2017, trang th&ocirc;ng tin điện tử C&ocirc;ng an TP.Đ&agrave; Nẵng cũng c&oacute; chuy&ecirc;n mục tra cứu vi phạm giao th&ocirc;ng qua hệ thống camera gi&aacute;m s&aacute;t tại địa chỉ www.catp.danang.gov.vn:8001/thongtinvipham...</p><p class=\"body-text\">Tuy nhi&ecirc;n, số trường hợp chưa giải quyết được cũng tương tự TP.HCM l&agrave; do thay đổi địa chỉ, chưa sang t&ecirc;n đổi chủ sau mua b&aacute;n, xe thu&ecirc;, sai th&ocirc;ng tin...</p><p class=\"body-text\">Trung t&aacute; Phan Văn Thương, Ph&oacute; trưởng ph&ograve;ng PC67 C&ocirc;ng an TP.Đ&agrave; Nẵng, cho hay hiện trang Facebook v&agrave; cổng th&ocirc;ng tin c&oacute; nhiệm vụ 1 - 2 ng&agrave;y phải cập nhật danh s&aacute;ch vi phạm mới nhất để người d&acirc;n tra cứu. Nếu chủ phương tiện kh&ocirc;ng đến giải quyết th&igrave; danh s&aacute;ch được chuyển sang Trung t&acirc;m đăng kiểm để từ chối đăng kiểm c&aacute;c phương tiện n&agrave;y.</p><p class=\"body-text\">&ldquo;Thời gian đầu &aacute;p dụng h&igrave;nh thức phạt nguội, c&oacute; chủ phương tiện bị phạt đến 15 lần, khi xe hết hạn, đi đăng kiểm mới nhận được th&ocirc;ng b&aacute;o nộp phạt với số tiền rất lớn. Nay th&igrave; kh&aacute;c, với tổ chức, c&ocirc;ng d&acirc;n vi phạm 2 lần trở l&ecirc;n sẽ bị lực lượng chức năng gọi điện trực tiếp để x&aacute;c minh, nhắc nhở chủ xe kịp thời chấn chỉnh, v&igrave; c&aacute;c xe vi phạm nhiều lần chủ yếu l&agrave; xe l&agrave;m dịch vụ cho thu&ecirc;, giao người kh&aacute;c sử dụng, khai th&aacute;c...&rdquo;, trung t&aacute; Phan Văn Thương cho hay.</p><p class=\"body-text\">C&ocirc;ng an TP.Đ&agrave; Nẵng đang nghi&ecirc;n cứu cho ra đời ứng dụng tr&ecirc;n thiết bị di động, th&ocirc;ng b&aacute;o vi phạm đến số m&aacute;y chủ phương tiện, vừa sử dụng cho c&ocirc;ng t&aacute;c phạt nguội, kết hợp c&aacute;c tiện &iacute;ch phục vụ ph&ograve;ng chống tội phạm kh&aacute;c bằng biện ph&aacute;p tăng mức tương t&aacute;c với chủ phương tiện.</p>",
-	"id" : 24858235,
-	"publish" : ISODate("2018-02-04T22:15:07Z"),
-	"tags" : [ ],
-	"keywords" : [
-		"Công an TP.Đà Nẵng",
-		"Phan Văn Thương",
-		"Nguyễn Tú",
-		"Luật giao thông đường bộ",
-		"Đăng kiểm",
-		"Sang tên",
-		"Tra cứu",
-		"Server",
-		"Phòng cảnh sát giao thông",
-		"Giấy phép lái xe",
-		"Cổng thông tin",
-		"Chấn chỉnh",
-		"Cho thuê",
-		"Nhắc nhở",
-		"Di động",
-		"Phòng chống",
-		"Vi phạm",
-		"Mua bán",
-		"Đà Nẵng",
-		"Ra đời",
-		"Giám sát"
-	],
-	"cates" : [
-		"Pháp luật"
-	]
-}
-```
-
-### Facebook comment Corpus
-* Mô tả: Đây là các comment trên facebook được crawler từ các page, group public của Facebook, thời gian crawler gần nhất 10/2020, được export 1 phần nhở từ elasticsearch ra.
-* Tổng số bản ghi: 10 triệu
-* Định dạng: Json Lines được dump bằng công cụ [Elasticsearch dump](https://github.com/elasticsearch-dump/elasticsearch-dump)
-* Dung lượng nén: 399MB, giải nén 3.9GB
-* Download:  https://drive.google.com/file/d/1BNkrAEcUvVO77UJmo82gFM_xySchKG4v/view?usp=sharing
-* Fields: `{
-          "creation_time" : 1568097734,
-          "post_id" : "2673240469403902",
-          "author" : {
-            "name" : "Công Campi Nguyễn",
-            "id" : "100013298478696"
-          },
-          "reaction_count" : 1,
-          "content" : "Giang hồ quá",
-          "url" : "https://www.facebook.com/thudaumotbd/posts/2673240469403902?comment_id=2673262599401689",
-          "object" : {
-            "name" : "Thủ Dầu Một Bình Dương",
-            "_id" : "243592359035404",
-            "type" : "Page"
-          }
-        }
-      }`
+File LICENSE (MIT) trong repo chỉ áp dụng cho mã nguồn/script từng có trong repo. Giấy phép này **không áp dụng và chưa bao giờ áp dụng cho dữ liệu bài báo hay bình luận** — bản quyền nội dung thuộc về các cơ quan báo chí và tác giả tương ứng.
 
 ## Tác giả
+
 * Họ tên: Vương Quốc Bình
-* Email: binh@haui.vn
-* Đơn vị công tác: Trường Đại học công nghiệp Hà Nội
 * Github: https://github.com/binhvq
-* Skype: binhvq
-* FB: https://fb.com/binhvq1411
